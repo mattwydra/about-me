@@ -28,6 +28,6 @@ I’ve also created several Discord bots, including my **Hopecore Bot**, which u
 
 ## About Me
 
-I'm Matt Wydra, a Computer Science student at the College of William & Mary, Class of 2024. I have a passion for software development, particularly in the areas of web development and game design. In addition to coding, I enjoy teaching and have worked as a STEM coding coach and robotics instructor. I also enjoy working on personal projects that allow me to explore new technologies and improve my skills.
+I'm Matt Wydra, a Computer Science graduate from The College of William & Mary, Class of 2024. I have a passion for software development, particularly in the areas of web development and game design, though all areas of full-stack development interest me. In addition to coding, I have enjoyed teaching as a STEM coding coach and robotics instructor, as well as raised Guide Dogs for almost 10 years! I also enjoy working on personal projects that allow me to explore new technologies and improve my skills.
 
 Feel free to check out my other projects and learn more about my journey. You can find me on [LinkedIn](https://linkedin.com/in/mattwydra) or [GitHub](https://github.com/mattwydra).
