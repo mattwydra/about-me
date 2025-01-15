@@ -1,6 +1,6 @@
 # Matt Wydra's Projects
 
-Welcome to my GitHub repository! This landing page contains a collection of demos (progress can be found [here](https://github.com/mattwydra/about-me/issues/1) and [here](https://github.com/mattwydra/about-me/issues/2)) for my personal projects, including mini-games, Discord bots, and other software development endeavors. Feel free to explore, check out the code, or use them as inspiration for your own projects!
+Welcome to my GitHub repository! This landing page contains a collection of demos (progress can be found [here](https://github.com/mattwydra/about-me/issues/1) and [here](https://github.com/mattwydra/about-me/issues/2)) for my personal projects, including mini-games, Discord bots, and other software development endeavors. Feel free to explore, check out the code for the [discord bots](https://github.com/mattwydra/discord_bots) and [minigames](https://github.com/mattwydra/projects/tree/main/minigames), or use them as inspiration for your own projects!
 
 ## Overview
 
